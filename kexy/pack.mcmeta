@@ -1,0 +1,7 @@
+{
+	"pack": {
+	  "description": "Custom random things that are randomly gonna be added to my SMP server.",
+	  "pack_format": 18,
+	  "supported_formats": [18, 42]
+	}
+  }
