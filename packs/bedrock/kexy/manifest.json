@@ -1,0 +1,26 @@
+{
+	"format_version": 1,
+	"header": {
+	  "description": "Custom random things that are randomly gonna be added to my SMP server.",
+	  "name": "kexy",
+	  "platform_locked": false,
+	  "uuid": "d7426aff-2f1d-485b-ab04-2407d71e742a",
+	  "version": [
+		0,
+		0,
+		1
+	  ]
+	},
+	"modules": [
+	  {
+		"description": "Custom random things that are randomly gonna be added to my SMP server.",
+		"type": "resources",
+		"uuid": "0cde9e09-b460-4556-bb57-4c41d79b3853",
+		"version": [
+		  0,
+		  0,
+		  1
+		]
+	  }
+	]
+  }
